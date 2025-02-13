@@ -21,3 +21,7 @@ Write a program that implements a basic calculator for addition, subtraction, mu
 Write a program that takes a number and calculates the sum of its digits.
 
 Write a program that reverses a given string without using built-in string manipulation methods.
+
+Write a program that takes an array of integers and finds the largest number in it.
+
+Write a program that takes an array of words and finds the length of the longest word in it.
