@@ -4,3 +4,13 @@
 // Input a string : The quick brown fox jumps over the lazy dog.
 // TThe quick brown fox jumps over the lazy dog.T
 
+Console.Write("Input a string: ");
+string x = Console.ReadLine();
+string newString = "";
+
+if (x.Length >= 1) {
+  char ch = x[0];
+  newString = ch + x + ch;
+}
+
+Console.WriteLine(newString);
