@@ -17,3 +17,7 @@ Write a program that prints all the prime numbers between A and B.
 Write a program to merge two sorted arrays into a single sorted array.
 
 Write a program that implements a basic calculator for addition, subtraction, multiplication, and division based on user input.
+
+Write a program that takes a number and calculates the sum of its digits.
+
+Write a program that reverses a given string without using built-in string manipulation methods.
