@@ -21,3 +21,7 @@ Write a C# program to create a string from a given string (length 1 or more) wit
 Write a C# program to check the sum of the two given integers. Return true if one of the integers is 20 or if their sum is 20.
 Write a C# program to convert a given string into lowercase.
 Reverse words in an array of strings.
+Write a C# program to compute the sum of all the elements of an array of integers.
+Write a C# program to count a specified number in a given array of integers.
+Write a C# program to check if a given string contains the 'w' character between 1 and 3 times.
+Write a C# program to check if a number appears as the first or last element of an array of integers. The array length is 1 or more.
