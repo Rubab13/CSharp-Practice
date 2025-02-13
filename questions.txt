@@ -1,27 +1,23 @@
 Questions:
 
 Write a program that prints the first N natural numbers.
-
 Write a program that takes a number and prints whether it is even or odd.
-
 Write a program that takes three numbers and prints the largest one.
-
 Write a program that checks whether a given string is a palindrome or not.
-
 Write a program that counts how many times a specific character appears in a string.
-
 Write a program to print the first N numbers of the Fibonacci series.
-
 Write a program that prints all the prime numbers between A and B.
-
 Write a program to merge two sorted arrays into a single sorted array.
-
 Write a program that implements a basic calculator for addition, subtraction, multiplication, and division based on user input.
-
 Write a program that takes a number and calculates the sum of its digits.
-
 Write a program that reverses a given string without using built-in string manipulation methods.
-
 Write a program that takes an array of integers and finds the largest number in it.
-
 Write a program that takes an array of words and finds the length of the longest word in it.
+Write a C# Sharp program to swap two numbers.
+Write a C# Sharp program that prints the multiplication table of a number as input.
+Write a C# Sharp program that calculates the average of the numbers in an array.
+
+Write a C# program to create a string from a given string (length 1 or more) with the first character added at the front and back.
+Write a C# program to check the sum of the two given integers. Return true if one of the integers is 20 or if their sum is 20.
+Write a C# program to convert a given string into lowercase.
+Reverse words in an array of strings.
